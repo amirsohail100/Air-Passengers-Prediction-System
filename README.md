@@ -15,7 +15,7 @@ You can interact with the live dashboard application here:
 
 Here is a preview of the active web dashboard interface where users can select inputs and get real-time forecasting numbers:
 
-![Dashboard Interface](ui.png)
+![Dashboard Interface](UI.png)
 _(Note: Replace `ui.png` in the repository root folder with your actual dashboard screenshot to render it here)_
 
 ---
