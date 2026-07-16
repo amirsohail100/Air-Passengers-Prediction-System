@@ -7,7 +7,7 @@ An interactive Machine Learning web application that predicts the estimated coun
 ## 🚀 Live Demo & Deployment
 
 You can interact with the live dashboard application here:
-🔗 **[Live Streamlit Application Link](PASTE_YOUR_STREAMLIT_DEPLOYMENT_LINK_HERE)**
+🔗 **[Live Streamlit Application Link](https://air-passengers-prediction-system-egp3ynswgkaynwvcbz7bd2.streamlit.app/)**
 
 ---
 
