@@ -57,7 +57,7 @@ _Our production system utilizes the **Gradient Boosting (GD)** architecture (`mo
 ├── scaler.pkl             # Serialized StandardScaler instance
 ├── columns.pkl            # Structural column validation checklist array
 ├── ui.png                 # Dashboard preview display asset
-├── Model_Training.ipynb   # Jupyter Notebook containing Data Analysis & Model Training pipeline
+├── Flights.ipynb   # Jupyter Notebook containing Data Analysis & Model Training pipeline
 └── README.md              # Document portfolio profile
 
 
